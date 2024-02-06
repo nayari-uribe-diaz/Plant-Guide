@@ -1,7 +1,3 @@
-#titleSquare {
-	border:2px solid linen;
-}
-
 h1{
   color:linen;
 }
@@ -12,6 +8,10 @@ h2{
 
 body{
   background:DarkSeaGreen;
+}
+
+#titleSquare {
+	border:2px solid linen;
 }
 
 #textColor {
