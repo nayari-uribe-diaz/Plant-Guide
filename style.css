@@ -14,7 +14,19 @@ body{
   background:DarkSeaGreen;
 }
 
-#textColor {
+#oneColor {
+	color:linen;
+}
+
+#twoColor {
+	color:linen;
+}
+
+#threeColor {
+	color:linen;
+}
+
+#fourColor {
 	color:linen;
 }
 
