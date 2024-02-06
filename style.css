@@ -1,3 +1,7 @@
+#titleSquare {
+	border:2px solid linen;
+}
+
 h1{
   color:linen;
 }
@@ -6,18 +10,12 @@ h2{
   color:linen;
 }
 
-
-
 body{
   background:DarkSeaGreen;
 }
 
-p{
-	
-}
-
-#titleSquare {
-	border:2px solid linen;
+#textColor {
+	color:linen;
 }
 
 .flower {
