@@ -16,6 +16,10 @@ p{
 	
 }
 
+#titleSquare {
+	border:2px solid linen;
+}
+
 .flower {
 	border:5px solid linen;
 }
