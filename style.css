@@ -2,12 +2,20 @@
 	border:2px solid linen;
 }
 
+title {
+text-align: center;	
+}
+
 h1{
   color:linen;
 }
 
 h2{
   color:linen;
+}
+
+p{
+	text-align: center;
 }
 
 body{
@@ -44,4 +52,9 @@ body{
   padding-right: 30px;
   padding-bottom: 50px;
   padding-left: 500px;
+}
+
+img{
+	display: block;
+	margin: auto;
 }
